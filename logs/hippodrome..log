@@ -1,0 +1,264 @@
+2025-03-09 22:38:04 DEBUG Horse: Создание Horse, имя [Bucephalus], скорость [2.4]
+2025-03-09 22:38:04 DEBUG Horse: Создание Horse, имя [Ace of Spades], скорость [2.5]
+2025-03-09 22:38:04 DEBUG Horse: Создание Horse, имя [Zephyr], скорость [2.6]
+2025-03-09 22:38:04 DEBUG Horse: Создание Horse, имя [Blaze], скорость [2.7]
+2025-03-09 22:38:04 DEBUG Horse: Создание Horse, имя [Lobster], скорость [2.8]
+2025-03-09 22:38:04 DEBUG Horse: Создание Horse, имя [Pegasus], скорость [2.9]
+2025-03-09 22:38:04 DEBUG Horse: Создание Horse, имя [Cherry], скорость [3.0]
+2025-03-09 22:38:04 DEBUG Hippodrome: Создание Hippodrome, лошадей [7]
+2025-03-09 22:38:04 INFO  Main: Начало скачек. Количество участников: 7
+2025-03-09 22:38:24 INFO  Main: Окончание скачек. Победитель: Pegasus
+2025-03-09 22:39:42 DEBUG Horse: Создание Horse, имя [Bucephalus], скорость [2.4]
+2025-03-09 22:39:42 DEBUG Horse: Создание Horse, имя [Ace of Spades], скорость [2.5]
+2025-03-09 22:39:42 DEBUG Horse: Создание Horse, имя [Zephyr], скорость [2.6]
+2025-03-09 22:39:42 DEBUG Horse: Создание Horse, имя [Blaze], скорость [2.7]
+2025-03-09 22:39:42 DEBUG Horse: Создание Horse, имя [Lobster], скорость [2.8]
+2025-03-09 22:39:42 DEBUG Horse: Создание Horse, имя [Pegasus], скорость [2.9]
+2025-03-09 22:39:42 DEBUG Horse: Создание Horse, имя [Cherry], скорость [3.0]
+2025-03-09 22:39:42 ERROR Hippodrome: Horses list is null
+2025-03-09 22:40:09 DEBUG Horse: Создание Horse, имя [Bucephalus], скорость [2.4]
+2025-03-09 22:40:09 DEBUG Horse: Создание Horse, имя [Ace of Spades], скорость [2.5]
+2025-03-09 22:40:09 DEBUG Horse: Создание Horse, имя [Zephyr], скорость [2.6]
+2025-03-09 22:40:09 DEBUG Horse: Создание Horse, имя [Blaze], скорость [2.7]
+2025-03-09 22:40:09 DEBUG Horse: Создание Horse, имя [Lobster], скорость [2.8]
+2025-03-09 22:40:09 DEBUG Horse: Создание Horse, имя [Pegasus], скорость [2.9]
+2025-03-09 22:40:09 DEBUG Horse: Создание Horse, имя [Cherry], скорость [3.0]
+2025-03-09 22:40:09 ERROR Hippodrome: Horses list is empty
+2025-03-09 22:40:40 ERROR Horse: Name is null
+2025-03-09 22:40:50 ERROR Horse: Name is blank
+2025-03-09 22:41:03 ERROR Horse: Speed is negative
+2025-03-09 22:41:14 ERROR Horse: Distance is negative
+2025-03-09 22:41:38 DEBUG Horse: Создание Horse, имя [Bucephalus], скорость [2.4]
+2025-03-09 22:41:38 DEBUG Horse: Создание Horse, имя [Ace of Spades], скорость [2.5]
+2025-03-09 22:41:38 DEBUG Horse: Создание Horse, имя [Zephyr], скорость [2.6]
+2025-03-09 22:41:38 DEBUG Horse: Создание Horse, имя [Blaze], скорость [2.7]
+2025-03-09 22:41:38 DEBUG Horse: Создание Horse, имя [Lobster], скорость [2.8]
+2025-03-09 22:41:38 DEBUG Horse: Создание Horse, имя [Pegasus], скорость [2.9]
+2025-03-09 22:41:38 DEBUG Horse: Создание Horse, имя [Cherry], скорость [3.0]
+2025-03-09 22:41:38 DEBUG Hippodrome: Создание Hippodrome, лошадей [7]
+2025-03-09 22:41:38 INFO  Main: Начало скачек. Количество участников: 7
+2025-03-09 22:41:59 INFO  Main: Окончание скачек. Победитель: Cherry
+2025-03-09 22:48:42 DEBUG Horse: Создание Horse, имя [Bucephalus], скорость [2.4]
+2025-03-09 22:48:42 DEBUG Horse: Создание Horse, имя [Ace of Spades], скорость [2.5]
+2025-03-09 22:48:42 DEBUG Horse: Создание Horse, имя [Zephyr], скорость [2.6]
+2025-03-09 22:48:42 DEBUG Horse: Создание Horse, имя [Blaze], скорость [2.7]
+2025-03-09 22:48:42 DEBUG Horse: Создание Horse, имя [Lobster], скорость [2.8]
+2025-03-09 22:48:42 DEBUG Horse: Создание Horse, имя [Pegasus], скорость [2.9]
+2025-03-09 22:48:42 DEBUG Horse: Создание Horse, имя [Cherry], скорость [3.0]
+2025-03-09 22:48:42 DEBUG Hippodrome: Создание Hippodrome, лошадей [7]
+2025-03-09 22:48:42 INFO  Main: Начало скачек. Количество участников: 7
+2025-03-09 22:48:43 INFO  Main: Окончание скачек. Победитель: Pegasus
+2025-03-09 22:48:53 DEBUG Horse: Создание Horse, имя [Bucephalus], скорость [2.4]
+2025-03-09 22:48:53 DEBUG Horse: Создание Horse, имя [Ace of Spades], скорость [2.5]
+2025-03-09 22:48:53 DEBUG Horse: Создание Horse, имя [Zephyr], скорость [2.6]
+2025-03-09 22:48:53 DEBUG Horse: Создание Horse, имя [Blaze], скорость [2.7]
+2025-03-09 22:48:53 DEBUG Horse: Создание Horse, имя [Lobster], скорость [2.8]
+2025-03-09 22:48:53 DEBUG Horse: Создание Horse, имя [Pegasus], скорость [2.9]
+2025-03-09 22:48:53 DEBUG Horse: Создание Horse, имя [Cherry], скорость [3.0]
+2025-03-09 22:48:53 DEBUG Hippodrome: Создание Hippodrome, лошадей [7]
+2025-03-09 22:48:53 INFO  Main: Начало скачек. Количество участников: 7
+2025-03-09 22:48:53 INFO  Main: Окончание скачек. Победитель: Zephyr
+2025-03-09 22:50:31 DEBUG Horse: Создание Horse, имя [Bucephalus], скорость [2.4]
+2025-03-09 22:50:31 DEBUG Horse: Создание Horse, имя [Ace of Spades], скорость [2.5]
+2025-03-09 22:50:31 DEBUG Horse: Создание Horse, имя [Zephyr], скорость [2.6]
+2025-03-09 22:50:31 DEBUG Horse: Создание Horse, имя [Blaze], скорость [2.7]
+2025-03-09 22:50:31 DEBUG Horse: Создание Horse, имя [Lobster], скорость [2.8]
+2025-03-09 22:50:31 DEBUG Horse: Создание Horse, имя [Pegasus], скорость [2.9]
+2025-03-09 22:50:31 DEBUG Horse: Создание Horse, имя [Cherry], скорость [3.0]
+2025-03-09 22:50:31 DEBUG Hippodrome: Создание Hippodrome, лошадей [7]
+2025-03-09 22:50:31 INFO  Main: Начало скачек. Количество участников: 7
+2025-03-09 22:50:32 INFO  Main: Окончание скачек. Победитель: Pegasus
+2025-03-09 22:51:17 DEBUG Horse: Создание Horse, имя [Bucephalus], скорость [2.4]
+2025-03-09 22:51:17 DEBUG Horse: Создание Horse, имя [Ace of Spades], скорость [2.5]
+2025-03-09 22:51:17 DEBUG Horse: Создание Horse, имя [Zephyr], скорость [2.6]
+2025-03-09 22:51:17 DEBUG Horse: Создание Horse, имя [Blaze], скорость [2.7]
+2025-03-09 22:51:17 DEBUG Horse: Создание Horse, имя [Lobster], скорость [2.8]
+2025-03-09 22:51:17 DEBUG Horse: Создание Horse, имя [Pegasus], скорость [2.9]
+2025-03-09 22:51:17 DEBUG Horse: Создание Horse, имя [Cherry], скорость [3.0]
+2025-03-09 22:51:17 DEBUG Hippodrome: Создание Hippodrome, лошадей [7]
+2025-03-09 22:51:17 INFO  Main: Начало скачек. Количество участников: 7
+2025-03-09 22:51:17 INFO  Main: Окончание скачек. Победитель: Lobster
+2025-03-09 22:51:44 DEBUG Horse: Создание Horse, имя [Bucephalus], скорость [2.4]
+2025-03-09 22:51:44 DEBUG Horse: Создание Horse, имя [Ace of Spades], скорость [2.5]
+2025-03-09 22:51:44 DEBUG Horse: Создание Horse, имя [Zephyr], скорость [2.6]
+2025-03-09 22:51:44 DEBUG Horse: Создание Horse, имя [Blaze], скорость [2.7]
+2025-03-09 22:51:44 DEBUG Horse: Создание Horse, имя [Lobster], скорость [2.8]
+2025-03-09 22:51:44 DEBUG Horse: Создание Horse, имя [Pegasus], скорость [2.9]
+2025-03-09 22:51:44 DEBUG Horse: Создание Horse, имя [Cherry], скорость [3.0]
+2025-03-09 22:51:44 DEBUG Hippodrome: Создание Hippodrome, лошадей [7]
+2025-03-09 22:51:44 INFO  Main: Начало скачек. Количество участников: 7
+2025-03-09 22:51:45 INFO  Main: Окончание скачек. Победитель: Cherry
+2025-03-09 22:52:02 DEBUG Horse: Создание Horse, имя [Bucephalus], скорость [2.4]
+2025-03-09 22:52:02 DEBUG Horse: Создание Horse, имя [Ace of Spades], скорость [2.5]
+2025-03-09 22:52:02 DEBUG Horse: Создание Horse, имя [Zephyr], скорость [2.6]
+2025-03-09 22:52:02 DEBUG Horse: Создание Horse, имя [Blaze], скорость [2.7]
+2025-03-09 22:52:02 DEBUG Horse: Создание Horse, имя [Lobster], скорость [2.8]
+2025-03-09 22:52:02 DEBUG Horse: Создание Horse, имя [Pegasus], скорость [2.9]
+2025-03-09 22:52:02 DEBUG Horse: Создание Horse, имя [Cherry], скорость [3.0]
+2025-03-09 22:52:02 DEBUG Hippodrome: Создание Hippodrome, лошадей [7]
+2025-03-09 22:52:02 INFO  Main: Начало скачек. Количество участников: 7
+2025-03-09 22:52:03 INFO  Main: Окончание скачек. Победитель: Pegasus
+2025-03-09 22:57:06 DEBUG Horse: Создание Horse, имя [Bucephalus], скорость [2.4]
+2025-03-09 22:57:06 DEBUG Horse: Создание Horse, имя [Ace of Spades], скорость [2.5]
+2025-03-09 22:57:06 DEBUG Horse: Создание Horse, имя [Zephyr], скорость [2.6]
+2025-03-09 22:57:06 DEBUG Horse: Создание Horse, имя [Blaze], скорость [2.7]
+2025-03-09 22:57:06 DEBUG Horse: Создание Horse, имя [Lobster], скорость [2.8]
+2025-03-09 22:57:06 DEBUG Horse: Создание Horse, имя [Pegasus], скорость [2.9]
+2025-03-09 22:57:06 DEBUG Horse: Создание Horse, имя [Cherry], скорость [3.0]
+2025-03-09 22:57:06 DEBUG Hippodrome: Создание Hippodrome, лошадей [7]
+2025-03-09 22:57:06 INFO  Main: Начало скачек. Количество участников: 7
+2025-03-09 22:57:06 INFO  Main: Окончание скачек. Победитель: Cherry
+2025-03-09 22:57:19 DEBUG Horse: Создание Horse, имя [Bucephalus], скорость [2.4]
+2025-03-09 22:57:19 DEBUG Horse: Создание Horse, имя [Ace of Spades], скорость [2.5]
+2025-03-09 22:57:19 DEBUG Horse: Создание Horse, имя [Zephyr], скорость [2.6]
+2025-03-09 22:57:19 DEBUG Horse: Создание Horse, имя [Blaze], скорость [2.7]
+2025-03-09 22:57:19 DEBUG Horse: Создание Horse, имя [Lobster], скорость [2.8]
+2025-03-09 22:57:19 DEBUG Horse: Создание Horse, имя [Pegasus], скорость [2.9]
+2025-03-09 22:57:19 DEBUG Horse: Создание Horse, имя [Cherry], скорость [3.0]
+2025-03-09 22:57:19 DEBUG Hippodrome: Создание Hippodrome, лошадей [7]
+2025-03-09 22:57:19 INFO  Main: Начало скачек. Количество участников: 7
+2025-03-09 22:57:20 INFO  Main: Окончание скачек. Победитель: Cherry
+2025-03-09 22:57:52 ERROR Hippodrome: Horses list is null
+2025-03-09 22:57:52 ERROR Hippodrome: Horses list is null
+2025-03-09 22:57:52 ERROR Hippodrome: Horses list is empty
+2025-03-09 22:57:52 DEBUG Hippodrome: Создание Hippodrome, лошадей [50]
+2025-03-09 22:57:53 DEBUG Horse: Создание Horse, имя [Horse01], скорость [0.0]
+2025-03-09 22:57:53 DEBUG Horse: Создание Horse, имя [Horse11], скорость [1.0]
+2025-03-09 22:57:53 DEBUG Horse: Создание Horse, имя [Horse21], скорость [2.0]
+2025-03-09 22:57:53 DEBUG Horse: Создание Horse, имя [Horse31], скорость [3.0]
+2025-03-09 22:57:53 DEBUG Horse: Создание Horse, имя [Horse41], скорость [4.0]
+2025-03-09 22:57:53 DEBUG Horse: Создание Horse, имя [Horse51], скорость [5.0]
+2025-03-09 22:57:53 DEBUG Horse: Создание Horse, имя [Horse61], скорость [6.0]
+2025-03-09 22:57:53 DEBUG Horse: Создание Horse, имя [Horse71], скорость [7.0]
+2025-03-09 22:57:53 DEBUG Horse: Создание Horse, имя [Horse81], скорость [8.0]
+2025-03-09 22:57:53 DEBUG Horse: Создание Horse, имя [Horse91], скорость [9.0]
+2025-03-09 22:57:53 DEBUG Horse: Создание Horse, имя [Horse101], скорость [10.0]
+2025-03-09 22:57:53 DEBUG Horse: Создание Horse, имя [Horse111], скорость [11.0]
+2025-03-09 22:57:53 DEBUG Horse: Создание Horse, имя [Horse121], скорость [12.0]
+2025-03-09 22:57:53 DEBUG Horse: Создание Horse, имя [Horse131], скорость [13.0]
+2025-03-09 22:57:53 DEBUG Horse: Создание Horse, имя [Horse141], скорость [14.0]
+2025-03-09 22:57:53 DEBUG Horse: Создание Horse, имя [Horse151], скорость [15.0]
+2025-03-09 22:57:53 DEBUG Horse: Создание Horse, имя [Horse161], скорость [16.0]
+2025-03-09 22:57:53 DEBUG Horse: Создание Horse, имя [Horse171], скорость [17.0]
+2025-03-09 22:57:53 DEBUG Horse: Создание Horse, имя [Horse181], скорость [18.0]
+2025-03-09 22:57:53 DEBUG Horse: Создание Horse, имя [Horse191], скорость [19.0]
+2025-03-09 22:57:53 DEBUG Horse: Создание Horse, имя [Horse201], скорость [20.0]
+2025-03-09 22:57:53 DEBUG Horse: Создание Horse, имя [Horse211], скорость [21.0]
+2025-03-09 22:57:53 DEBUG Horse: Создание Horse, имя [Horse221], скорость [22.0]
+2025-03-09 22:57:53 DEBUG Horse: Создание Horse, имя [Horse231], скорость [23.0]
+2025-03-09 22:57:53 DEBUG Horse: Создание Horse, имя [Horse241], скорость [24.0]
+2025-03-09 22:57:53 DEBUG Horse: Создание Horse, имя [Horse251], скорость [25.0]
+2025-03-09 22:57:53 DEBUG Horse: Создание Horse, имя [Horse261], скорость [26.0]
+2025-03-09 22:57:53 DEBUG Horse: Создание Horse, имя [Horse271], скорость [27.0]
+2025-03-09 22:57:53 DEBUG Horse: Создание Horse, имя [Horse281], скорость [28.0]
+2025-03-09 22:57:53 DEBUG Horse: Создание Horse, имя [Horse291], скорость [29.0]
+2025-03-09 22:57:53 DEBUG Hippodrome: Создание Hippodrome, лошадей [30]
+2025-03-09 22:57:53 ERROR Hippodrome: Horses list is empty
+2025-03-09 22:57:53 DEBUG Horse: Создание Horse, имя [Horse1], скорость [1.0]
+2025-03-09 22:57:53 DEBUG Horse: Создание Horse, имя [Horse2], скорость [1.0]
+2025-03-09 22:57:53 DEBUG Horse: Создание Horse, имя [Horse3], скорость [1.0]
+2025-03-09 22:57:53 DEBUG Hippodrome: Создание Hippodrome, лошадей [3]
+2025-03-09 22:57:53 DEBUG Horse: Создание Horse, имя [Blaze], скорость [1.0]
+2025-03-09 22:57:53 DEBUG Horse: Создание Horse, имя [Blaze], скорость [1.0]
+2025-03-09 22:57:53 DEBUG Horse: Создание Horse, имя [Blaze], скорость [1.0]
+2025-03-09 22:57:53 ERROR Horse: Name is blank
+2025-03-09 22:57:53 ERROR Horse: Name is blank
+2025-03-09 22:57:53 ERROR Horse: Name is blank
+2025-03-09 22:57:53 ERROR Horse: Name is blank
+2025-03-09 22:57:53 ERROR Horse: Name is blank
+2025-03-09 22:57:53 ERROR Horse: Name is blank
+2025-03-09 22:57:53 ERROR Horse: Name is blank
+2025-03-09 22:57:53 DEBUG Horse: Создание Horse, имя [Blaze], скорость [1.0]
+2025-03-09 22:57:53 DEBUG Horse: Создание Horse, имя [Blaze], скорость [50.0]
+2025-03-09 22:57:53 DEBUG Horse: Создание Horse, имя [Blaze], скорость [50.0]
+2025-03-09 22:57:53 DEBUG Horse: Создание Horse, имя [Blaze], скорость [50.0]
+2025-03-09 22:57:53 DEBUG Horse: Создание Horse, имя [Blaze], скорость [50.0]
+2025-03-09 22:57:53 DEBUG Horse: Создание Horse, имя [Blaze], скорость [50.0]
+2025-03-09 22:57:53 DEBUG Horse: Создание Horse, имя [Blaze], скорость [50.0]
+2025-03-09 22:57:53 DEBUG Horse: Создание Horse, имя [Blaze], скорость [50.0]
+2025-03-09 22:57:53 ERROR Horse: Speed is negative
+2025-03-09 22:57:53 ERROR Horse: Name is null
+2025-03-09 22:57:53 ERROR Horse: Name is blank
+2025-03-09 22:57:53 ERROR Horse: Name is blank
+2025-03-09 22:57:53 ERROR Horse: Name is blank
+2025-03-09 22:57:53 ERROR Horse: Name is blank
+2025-03-09 22:57:53 ERROR Horse: Name is blank
+2025-03-09 22:57:53 ERROR Horse: Name is blank
+2025-03-09 22:57:53 ERROR Horse: Name is blank
+2025-03-09 22:57:53 ERROR Horse: Distance is negative
+2025-03-09 22:57:53 ERROR Horse: Distance is negative
+2025-03-09 22:57:53 ERROR Horse: Speed is negative
+2025-03-09 22:57:53 ERROR Horse: Name is null
+2025-03-09 22:57:53 DEBUG Horse: Создание Horse, имя [Blaze], скорость [1.0]
+2025-03-09 22:58:29 ERROR Hippodrome: Horses list is null
+2025-03-09 22:58:29 ERROR Hippodrome: Horses list is null
+2025-03-09 22:58:29 ERROR Hippodrome: Horses list is empty
+2025-03-09 22:58:29 DEBUG Hippodrome: Создание Hippodrome, лошадей [50]
+2025-03-09 22:58:30 DEBUG Horse: Создание Horse, имя [Horse01], скорость [0.0]
+2025-03-09 22:58:30 DEBUG Horse: Создание Horse, имя [Horse11], скорость [1.0]
+2025-03-09 22:58:30 DEBUG Horse: Создание Horse, имя [Horse21], скорость [2.0]
+2025-03-09 22:58:30 DEBUG Horse: Создание Horse, имя [Horse31], скорость [3.0]
+2025-03-09 22:58:30 DEBUG Horse: Создание Horse, имя [Horse41], скорость [4.0]
+2025-03-09 22:58:30 DEBUG Horse: Создание Horse, имя [Horse51], скорость [5.0]
+2025-03-09 22:58:30 DEBUG Horse: Создание Horse, имя [Horse61], скорость [6.0]
+2025-03-09 22:58:30 DEBUG Horse: Создание Horse, имя [Horse71], скорость [7.0]
+2025-03-09 22:58:30 DEBUG Horse: Создание Horse, имя [Horse81], скорость [8.0]
+2025-03-09 22:58:30 DEBUG Horse: Создание Horse, имя [Horse91], скорость [9.0]
+2025-03-09 22:58:30 DEBUG Horse: Создание Horse, имя [Horse101], скорость [10.0]
+2025-03-09 22:58:30 DEBUG Horse: Создание Horse, имя [Horse111], скорость [11.0]
+2025-03-09 22:58:30 DEBUG Horse: Создание Horse, имя [Horse121], скорость [12.0]
+2025-03-09 22:58:30 DEBUG Horse: Создание Horse, имя [Horse131], скорость [13.0]
+2025-03-09 22:58:30 DEBUG Horse: Создание Horse, имя [Horse141], скорость [14.0]
+2025-03-09 22:58:30 DEBUG Horse: Создание Horse, имя [Horse151], скорость [15.0]
+2025-03-09 22:58:30 DEBUG Horse: Создание Horse, имя [Horse161], скорость [16.0]
+2025-03-09 22:58:30 DEBUG Horse: Создание Horse, имя [Horse171], скорость [17.0]
+2025-03-09 22:58:30 DEBUG Horse: Создание Horse, имя [Horse181], скорость [18.0]
+2025-03-09 22:58:30 DEBUG Horse: Создание Horse, имя [Horse191], скорость [19.0]
+2025-03-09 22:58:30 DEBUG Horse: Создание Horse, имя [Horse201], скорость [20.0]
+2025-03-09 22:58:30 DEBUG Horse: Создание Horse, имя [Horse211], скорость [21.0]
+2025-03-09 22:58:30 DEBUG Horse: Создание Horse, имя [Horse221], скорость [22.0]
+2025-03-09 22:58:30 DEBUG Horse: Создание Horse, имя [Horse231], скорость [23.0]
+2025-03-09 22:58:30 DEBUG Horse: Создание Horse, имя [Horse241], скорость [24.0]
+2025-03-09 22:58:30 DEBUG Horse: Создание Horse, имя [Horse251], скорость [25.0]
+2025-03-09 22:58:30 DEBUG Horse: Создание Horse, имя [Horse261], скорость [26.0]
+2025-03-09 22:58:30 DEBUG Horse: Создание Horse, имя [Horse271], скорость [27.0]
+2025-03-09 22:58:30 DEBUG Horse: Создание Horse, имя [Horse281], скорость [28.0]
+2025-03-09 22:58:30 DEBUG Horse: Создание Horse, имя [Horse291], скорость [29.0]
+2025-03-09 22:58:30 DEBUG Hippodrome: Создание Hippodrome, лошадей [30]
+2025-03-09 22:58:30 ERROR Hippodrome: Horses list is empty
+2025-03-09 22:58:30 DEBUG Horse: Создание Horse, имя [Horse1], скорость [1.0]
+2025-03-09 22:58:30 DEBUG Horse: Создание Horse, имя [Horse2], скорость [1.0]
+2025-03-09 22:58:30 DEBUG Horse: Создание Horse, имя [Horse3], скорость [1.0]
+2025-03-09 22:58:30 DEBUG Hippodrome: Создание Hippodrome, лошадей [3]
+2025-03-09 22:58:30 DEBUG Horse: Создание Horse, имя [Blaze], скорость [1.0]
+2025-03-09 22:58:30 DEBUG Horse: Создание Horse, имя [Blaze], скорость [1.0]
+2025-03-09 22:58:30 DEBUG Horse: Создание Horse, имя [Blaze], скорость [1.0]
+2025-03-09 22:58:30 ERROR Horse: Name is blank
+2025-03-09 22:58:30 ERROR Horse: Name is blank
+2025-03-09 22:58:30 ERROR Horse: Name is blank
+2025-03-09 22:58:30 ERROR Horse: Name is blank
+2025-03-09 22:58:30 ERROR Horse: Name is blank
+2025-03-09 22:58:30 ERROR Horse: Name is blank
+2025-03-09 22:58:30 ERROR Horse: Name is blank
+2025-03-09 22:58:30 DEBUG Horse: Создание Horse, имя [Blaze], скорость [1.0]
+2025-03-09 22:58:30 DEBUG Horse: Создание Horse, имя [Blaze], скорость [50.0]
+2025-03-09 22:58:30 DEBUG Horse: Создание Horse, имя [Blaze], скорость [50.0]
+2025-03-09 22:58:30 DEBUG Horse: Создание Horse, имя [Blaze], скорость [50.0]
+2025-03-09 22:58:30 DEBUG Horse: Создание Horse, имя [Blaze], скорость [50.0]
+2025-03-09 22:58:30 DEBUG Horse: Создание Horse, имя [Blaze], скорость [50.0]
+2025-03-09 22:58:30 DEBUG Horse: Создание Horse, имя [Blaze], скорость [50.0]
+2025-03-09 22:58:30 DEBUG Horse: Создание Horse, имя [Blaze], скорость [50.0]
+2025-03-09 22:58:30 ERROR Horse: Speed is negative
+2025-03-09 22:58:30 ERROR Horse: Name is null
+2025-03-09 22:58:30 ERROR Horse: Name is blank
+2025-03-09 22:58:30 ERROR Horse: Name is blank
+2025-03-09 22:58:30 ERROR Horse: Name is blank
+2025-03-09 22:58:30 ERROR Horse: Name is blank
+2025-03-09 22:58:30 ERROR Horse: Name is blank
+2025-03-09 22:58:30 ERROR Horse: Name is blank
+2025-03-09 22:58:30 ERROR Horse: Name is blank
+2025-03-09 22:58:30 ERROR Horse: Distance is negative
+2025-03-09 22:58:30 ERROR Horse: Distance is negative
+2025-03-09 22:58:30 ERROR Horse: Speed is negative
+2025-03-09 22:58:30 ERROR Horse: Name is null
+2025-03-09 22:58:30 DEBUG Horse: Создание Horse, имя [Blaze], скорость [1.0]
